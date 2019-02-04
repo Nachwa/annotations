@@ -329,7 +329,7 @@ field of views, or FPS due to participant error or camera. These videos
 identified using `ffprobe` are:
 
 * 1280x720: `P12_01`, `P12_02`, `P12_03`, `P12_04`.
-* 2560x1440: `P12_05`, `P12_06` 
+* 1920x1440: `P12_05`, `P12_06` 
 * 29.97 FPS: `P09_07`, `P09_08`, `P10_01`, `P10_04`, `P11_01`, `P18_02`,
     `P18_03`
 * 48 FPS: `P17_01`, `P17_02`, `P17_03`, `P17_04`
